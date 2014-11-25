@@ -100,9 +100,3 @@ function qsshift(listName, cb) {
 };
 
 module.exports = redisQSet;
-
-
-// Usage:
-// var redis = require('redis');
-// require('redis-qlist')(redis);
-
